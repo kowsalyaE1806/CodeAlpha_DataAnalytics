@@ -1,6 +1,6 @@
 # CodeAlpha Data Analytics Internship
 
-##Intern: Kowsalya E
+## Intern: Kowsalya E
 ## Company: CodeAlpha
 
 ---
