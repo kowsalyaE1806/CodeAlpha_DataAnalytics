@@ -1,7 +1,18 @@
 # CodeAlpha Data Analytics Internship
 
-## Intern: Kowsalya E
-## Company: CodeAlpha
+---
+
+## Task 1: Web Scraping
+### Website: books.toscrape.com
+### What I did:
+- Scraped 5 pages of book data
+- Collected 100 books total
+- Extracted Title, Price and Rating
+- Created custom dataset using BeautifulSoup
+- Saved data to CSV file
+
+### Tools Used:
+Python | BeautifulSoup | Requests | Pandas
 
 ---
 
@@ -23,9 +34,9 @@ Python | Pandas | NumPy | Matplotlib
 ### Dataset: Titanic
 ### Charts Created:
 - Correlation Heatmap
-- Boxplot - Age by Survival
-- Countplot - Survival by Gender
-- Pie Chart - Survival Rate
+- Boxplot
+- Countplot by Gender
+- Pie Chart
 - Fare Distribution
 - Survival by Passenger Class
 
@@ -34,5 +45,6 @@ Python | Matplotlib | Seaborn
 
 ---
 
-## Libraries: 
-Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
+## Libraries Used:
+Python | Pandas | NumPy | Matplotlib | 
+Seaborn | BeautifulSoup | Jupyter Notebook
